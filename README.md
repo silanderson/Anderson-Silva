@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anderson Jose da Silva</h1>
 <h3 align="center">Um entusiasta da área de Dados e Analitics</h3>
 
+
+<img src="https://user-images.githubusercontent.com/56661953/186473389-65c8dc52-af00-4480-8afd-9f50f94199dc.png" width="700px" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silanderson&label=Profile%20views&color=0e75b6&style=flat" alt="silanderson" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silanderson" alt="silanderson" /></a> </p>

@@ -1,5 +1,3 @@
-# Anderson-Silva
-
 <h1 align="center">Hi 👋, I'm Anderson Jose da Silva</h1>
 <h3 align="center">Um entusiasta da área de Dados e Analitics</h3>
 
